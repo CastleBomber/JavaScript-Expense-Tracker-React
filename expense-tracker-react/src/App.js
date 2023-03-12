@@ -6,7 +6,10 @@
  *
  * Implementing with github pages
  *
- * Tip: cmd+D will change opening and closing tag simultaneously
+ * Tips: 
+ *  cmd+D will change opening and closing tag simultaneously
+ *  github pages: npm install gh-pages --save
+ * 
  */
 import "./App.css";
 import React from "react";

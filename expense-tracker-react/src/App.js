@@ -6,10 +6,17 @@
  *
  * Implementing with github pages
  *
- * Tips: 
+ * Commands:
+ *  npm run start
+ *  npm run deploy
+ *
+ * Website:
+ *  https://castlebomber.github.io/JavaScript-Expense-Tracker-React
+ *
+ * Tips:
  *  cmd+D will change opening and closing tag simultaneously
  *  github pages: npm install gh-pages --save
- * 
+ *
  */
 import "./App.css";
 import React from "react";

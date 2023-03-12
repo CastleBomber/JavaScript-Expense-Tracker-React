@@ -2,6 +2,10 @@
  * Author: CastleBomber
  * Date: December 14th, 2022
  *
+ * Simple Income Calculator App
+ *
+ * Implementing with github pages
+ *
  * Tip: cmd+D will change opening and closing tag simultaneously
  */
 import "./App.css";
